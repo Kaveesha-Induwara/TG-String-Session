@@ -29,7 +29,7 @@
         },
         "API_KEY": {
             "description": "Your Heroku Account API Key from https://dashboard.heroku.com/account ",
-            "value": "",
+            "value": "24c1991b-0f42-463c-9088-911f20c64b1c",
             "required": true
         },
         "API_ID": {
